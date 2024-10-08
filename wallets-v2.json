@@ -34,6 +34,22 @@
     "platforms": ["ios", "android", "chrome", "firefox", "macos"]
   },
   {
+    "app_name": "tonkeeper_pro",
+    "name": "TonkeeperPRO",
+    "image": "https://tonkeeper.com/assets/tonconnect-icon.png",
+    "tondns": "tonkeeper.ton",
+    "about_url": "https://tonkeeper.com",
+    "universal_url": "https://wallet.tonkeeper.com/ton-connect",
+    "deepLink": "tonkeeper-tc://",
+    "bridge": [
+      {
+        "type": "sse",
+        "url": "https://bridge.tonapi.io/bridge"
+      }
+    ],
+    "platforms": ["ios", "android", "chrome", "firefox", "macos"]
+  },
+  {
     "app_name": "mytonwallet",
     "name": "MyTonWallet",
     "image": "https://static.mytonwallet.io/icon-256.png",
