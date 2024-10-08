@@ -50,32 +50,6 @@
     "platforms": ["ios", "android", "chrome", "firefox", "macos"]
   },
   {
-    "app_name": "mytonwallet",
-    "name": "MyTonWallet",
-    "image": "https://static.mytonwallet.io/icon-256.png",
-    "about_url": "https://mytonwallet.io",
-    "universal_url": "https://connect.mytonwallet.org",
-    "bridge": [
-      {
-        "type": "js",
-        "key": "mytonwallet"
-      },
-      {
-        "type": "sse",
-        "url": "https://tonconnectbridge.mytonwallet.org/bridge/"
-      }
-    ],
-    "platforms": [
-      "chrome",
-      "windows",
-      "macos",
-      "linux",
-      "ios",
-      "android",
-      "firefox"
-    ]
-  },
-  {
     "app_name": "openmask",
     "name": "OpenMask",
     "image": "https://raw.githubusercontent.com/OpenProduct/openmask-extension/main/public/openmask-logo-288.png",
