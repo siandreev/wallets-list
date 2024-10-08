@@ -39,7 +39,7 @@
     "image": "https://tonkeeper.com/assets/tonconnect-icon.png",
     "tondns": "tonkeeper.ton",
     "about_url": "https://tonkeeper.com",
-    "universal_url": "https://wallet.tonkeeper.com/ton-connect",
+    "universal_url": "http://localhost:5173/ton-connect",
     "deepLink": "tonkeeper-tc://",
     "bridge": [
       {
