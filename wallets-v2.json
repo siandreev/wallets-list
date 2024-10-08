@@ -46,7 +46,7 @@
         "url": "https://bridge.tonapi.io/bridge"
       }
     ],
-    "platforms": ["ios", "android", "chrome", "firefox", "macos"]
+    "platforms": ["macos", "windows"]
   },
   {
     "app_name": "openmask",
